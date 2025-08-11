@@ -30,9 +30,12 @@
 </div>
 
 ## 💾 Projects
-- FitMate
-- 봄여어름갈겨어울
-- 명.노.운 - 명심, 노(No)헬멧은 운전금지
+
+|Projects|details|
+|---|---|
+|<img width="80" alt="image" src="https://github.com/user-attachments/assets/ab815321-83bb-4176-9c45-a1ca0dd1a765" />|<b>FitMate</b> (25.06 ~ 진행중)<br>UIKit(CodeBase), MVVM, RxSwift<br>Github \| 앱스토어|
+|<img width="80" alt="fi" src="https://github.com/user-attachments/assets/540cf325-4e6e-4f85-9b63-1fff31abf1fd" />|<b>봄여어름갈겨어울</b> (25.05 ~ 25.05)<br>UIKit(CodeBase), MVVM, RxSwift<br>Github|
+|<img width="80" alt="image" src="https://github.com/user-attachments/assets/362f69d2-196c-47fa-9185-836976e978c0" />|<b>명.노.운 - 명심, 노(No)헬멧은 운전금지</b> (25.04 ~ 05)<br>UIKit(CodeBase), MVC<br>Github|
 
 ## 👨‍🎓 Experiences
 - **[내일배움캠프] iOS `6기`** (2025.03~07)
