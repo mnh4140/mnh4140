@@ -53,4 +53,4 @@
 
 ## 🧩 Algorithm
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={mnh4140})](https://solved.ac/{mnh4140})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={mnh4140})](https://solved.ac/mnh4140)
