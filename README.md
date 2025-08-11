@@ -49,3 +49,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mnh4140&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnh4140&layout=compact&theme=onedark)
 </div>
+
+
+## 🧩 Algorithm
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={mnh4140})](https://solved.ac/{mnh4140})
